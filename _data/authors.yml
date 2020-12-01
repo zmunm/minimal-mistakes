@@ -1,0 +1,12 @@
+# Authors
+zmunm:
+  name     : "Mingyu Kim"
+  avatar   : "/assets/images/profile.jpg"
+  bio      : "The man who reinvents the wheel"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "atheist2197@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zmunm"
